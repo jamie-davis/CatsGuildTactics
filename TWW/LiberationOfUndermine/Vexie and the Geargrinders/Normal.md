@@ -1,7 +1,7 @@
 The fight has two phases:
 
 Phase 1 - Fury Road
-The boss has 6 stacks of Protective Plating which must be removed. When all stacks are gone, phase 2 will start.
+The boss has 6 stacks of Protective Plating which must be removed. When all stacks are gone, phase 2 will start. Boss will use Tank Buster which gives the tank a debuff making the next Tank Buster do 200% damage. Tank swap on each Tank Buster.
 Special Projects: Bikers will spawn which will give up their bikes on death. Players must kill the bikers and fire the bikes into the boss to remove plates.
 
 Phase 2 - Pit Stop
