@@ -1,0 +1,1 @@
+Phase 1 - Tank boss near wall, kill bikers and use their bikes to ram the boss. Phase 2 - Boss takes double damage. Use Bloodlust, CC/Interrupt the Pit Mechanics, and DPS the boss. Heal through raid damage.
