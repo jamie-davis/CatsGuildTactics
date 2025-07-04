@@ -1,3 +1,3 @@
 Boss drops amplifiers. Amplifiers do raid damage which increases by 25% for each additional amplifier. Amplifiers gain energy gradually. At 100% they wipe the raid but you can drain the energy by clicking on it and channeling. Chanelling does ticking damage.
 
-If the boss is within 15 yards the amplifiers gain energy faster so tank the boss away from them. However, the amps should not be too far apart for the Blaring Drop phase. Blaring Drop is critical. 
+If the boss is within 15 yards the amplifiers gain energy faster so tank the boss away from them. However, the amps should not be too far apart for the Blaring Drop phase. During Blaring Drop one of the amplifiers will have a blue circle. everyone must be inside the circle before the boss's Blaring Drop hits. anyone wjo doesn't make it will be dead. this repeats for each amplifier. Amplifiers that are far apart can make this difficult.
