@@ -4,4 +4,4 @@ If the boss is within 15 yards the amplifiers gain energy faster so tank the bos
 
 The boss auto attacks cleave and apply a stacking Tinnitus debuff. Turn him away and tank swap on 5 stacks.
 
-Phase 2: Blaring Drop. Boss sends out a giant circle which will kill anyone it hits. The only way to survive it is to find the  amplifier with a blue circle and get into the circle. This repeats for each amplifier. Amplifiers that are far apart can make this difficult.
+Phase 2: Blaring Drop. Boss sends out a giant circle which will kill anyone it hits. The only way to survive it is to find the  amplifier with a blue circle and get into the circle. This repeats for each amplifier. Amplifiers that are far apart can make this difficult, so don't spread them too far.
