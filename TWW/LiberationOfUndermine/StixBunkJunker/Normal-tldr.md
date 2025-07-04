@@ -1,0 +1,1 @@
+Tank swap on Demolish. If you get a ball, grow it using 4 small piles and then 4 medium piles. Don't run players over. Run a large ball into the Discarded Doomsplosives. Missed Doomsplosives will wipe the raid when they blow. Dont' incinerate garbage, don't stand in fire or lightning.
