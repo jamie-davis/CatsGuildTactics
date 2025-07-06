@@ -1,0 +1,2 @@
+Arena has two sides. Red (right) and blue (left). Each side has different mechanics, and the active side depends on where the majority of the raid are standing. There are also two phases - phase 1 has the mechanics of the current side only but phase 2 has all of the mechanics. During Phase 1, if the boss reaches 100 energy the raid will wipe. Swapping sides resets the energy bar but applies a debuff to the raid. We generally do a blue side only tactic, where we activate the red side briefly to reset the energy, but immediately go back to blue.
+
