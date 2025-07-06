@@ -1,0 +1,1 @@
+Two phases, kill adds. Use 2 tokens on Spin To Win, don't repeat combination. Pay-Line return coins. Tank swap on The Big Hit, place Shocking Field at edge of room. Tanks can use pylons to clean floor. Phase 2 enrage timer, avoid beams. Move out if marked for Hot Hot Heat. Kite boss.
