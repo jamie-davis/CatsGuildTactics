@@ -22,7 +22,7 @@ On Pay-Line, two coins will be sent out from the boss. Blue lines mark their pat
 
 Peridically, boss releases Foul Exhaust, a large AOE and healing absorb hitting all players.
 
-Tanks: Swap on The Big Hit, when it lands the tank will leave a Shocking Field. Targeted tank should spawn the field at the edge.
+Tanks: Swap on The Big Hit, when it lands the tank will leave a Shocking Field. Targeted tank should spawn the field at the edge. Tanks can use pylons to clear fields.
 
 Phase 2: Cheat To Win
 
