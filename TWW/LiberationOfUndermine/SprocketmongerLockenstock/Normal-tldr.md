@@ -1,0 +1,1 @@
+50% of floor sections will be electrified and the sections change; don't stand on those sections. Tank swap on 5 stacks of Gravi-Gunk or on Pyro Party Pack. Take Pyro Party Pack out of the raid. In phase two move back to boss after knock back. Avoid beams, rockets, drills and magnets.
