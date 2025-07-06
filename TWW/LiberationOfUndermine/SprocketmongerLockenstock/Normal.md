@@ -1,6 +1,6 @@
 Phase 1:
 
-Arena has 4 sections, and the boss will electrify two of them at a time with Wire Transfer. Random players will get Screw Up, move away because you will drop drills that stun players and apply a DOT. 
+Arena has 4 sections, and the boss will electrify two of them at a time with Wire Transfer. Random players will get Screw Up, keep moving because you will drop drills that stun and apply a DOT. 
 
 Boss places inventions on conveyer belts. He will cast Activate Inventions which will cause an effect depending on the invention he has out. Blazing Beams will create lines on the floor; don't stand in them. Rocket Barrage will shoot rockets; dodge them. Mega Magnetize will pull you towards magnets which stun you; resist the pull.
 
