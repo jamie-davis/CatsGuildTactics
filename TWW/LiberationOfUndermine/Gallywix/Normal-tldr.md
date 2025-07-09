@@ -1,6 +1,6 @@
 Three phases. P1 split raid into odd and even groups. Half the raid must soak Scatterblast Cannisters cone. Taunt after each cast. Tank stay in melee range, raid avoid bombs.
 
-P2 adds Giga Coils. Someone disable the coil controls with a Giga Bomb. Put the spage Giga Bombs in the centre hole.
+P2 adds Giga Coils. Someone disable the coil controls with a Giga Bomb. Put the spare Giga Bombs in the centre hole.
 
 Intermission: break shield and interrupt.
 
