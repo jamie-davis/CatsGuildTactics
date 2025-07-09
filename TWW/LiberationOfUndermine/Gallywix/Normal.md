@@ -21,3 +21,20 @@ Giga Blast is an obvious blue line targeting a ranged player. Ranged can bait th
 Random players will be marked with Fused Canisters. One other player must join them to soak a stacking heal absorb. If nobody helps, the raid takes the heal absorb.
 
 All P1 mechanics continue until 50% health.
+
+Intermission: Cratering. Boss leaps up and kills anyone in landing zone, then puts up a shield and casts TOTAL DESTRUCTION!!! - break the shield and interrupt.
+
+Phase 3 - Bigger Badder Bomb Blast on tank. Swap and take the massive circle to edge and away, everyone else leave the circle.
+
+Big Bad Buncha Bombs from P1/P2 still available.
+
+A few players will be marked witb a directional arrow which shows where Overloaded Rockets will go. Don't move too much so other players can avoid.
+
+Three Tick-Tock Canisters spawn on floor and explode after 8 seconds. At least two players
+must soak split damage and healing absorb. Healing absorb must be healed off within 30 seconds or players take damage. If a canister is not soaked the healing absorb goes on the whole raid and can wipe us.
+
+Giga Coils continue. If a coil is disabled twice it will be destroyed and a quarter of the floor is electrified. Finish the fight before there is no space left.
+
+Gallibux Final Blast AOE does damage that drops with range so run away.
+
+Tank buster: Ego Check does 4 physical hits. Total unmitigated damage from all 4 hits is applied as a DOT so use defensive.
