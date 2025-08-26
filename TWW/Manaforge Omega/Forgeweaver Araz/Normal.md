@@ -1,10 +1,7 @@
 Phase 1:
-Raid should split into two groups with one tank each.
 
-Tank swap on Arcane Obliteration. Tank should take the effect clear (> 20 yards) but group players MUST follow to soak the damage. 
-Effect applies split damage, a large healing absorb, Astral Mark and spawns an Arcane Echo at 
-the location. Tank holds the add at the location while it is killed. Add and boss buff each other 
-so fight them more than 20 yards apart.
+Tank swap on Arcane Obliteration. Players MUST soak the damage. Effect applies split damage, a large healing absorb, Astral 
+Mark and spawns an Arcane Echo at the location.
 
 Boss will also stack the Overwhelming Power DOT on the active tank, in phase 1 Arcane Obliteration
 will cause swaps at an appropriate interval. Outside of phase 1 the DOT needs to be monitored and swap 
@@ -21,7 +18,8 @@ Shielded Attendants will spawn in the centre of the room. Tanks pick up one each
 damage, so swap adds during Mana Splinter.
 
 Pylons will fire Photon Blasts at random players, avoid them. At full energy, the Pylons will 
-use Arcane Convergence and do heavy raid damage. Aim to destroy the pylons before this. 
+use Arcane Convergence and do heavy raid damage. Aim to destroy the pylons before this. Target the pylon with 
+the circle first.
 
 When the pylons are down (or at timed intervals), Mana Splinter will stun the boss and he takes extra damage. 
 There will be 2 Mana Splinters in the fight.
