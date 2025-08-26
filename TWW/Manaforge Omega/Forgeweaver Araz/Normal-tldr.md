@@ -1,4 +1,4 @@
-Split raid. Tank swap on Arcane Obliteration. Tank the Arcane Echo on the boss, soak spawn damage.
+Tank swap on Arcane Obliteration. Tank the Arcane Echo on the boss, soak spawn damage.
 Additional swaps may be required when Overwhelming Power stacks > 2.
 
 Dodge orbs. If you get Astral Harvest, move to the boss to spawn the add. Adds can be CC'd.
