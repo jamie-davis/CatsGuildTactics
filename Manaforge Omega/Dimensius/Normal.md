@@ -52,3 +52,17 @@ otherwise it means death.
 
 Phase 3:
 
+The boss takes 50% bonus damage for 15 seconds at the start of the phase, so bloodlust and use CDs.
+
+The boss will continue to cast Devour, but instead of sheltering in Excess Mass, you will need to shelter in Voidstars. The boss
+will create 8 Voidstars which will orbit the platform, i.e. they will be on the move. Periodically the boss will turn Voidstars 
+into Black Holes which will be instant death for the rest of the fight. When you run out of Voidstars Devour will wipe the raid.
+
+Meteors will crash into the platform and create expanding Shadowquake rings. Circles will appear on the ground at the impact 
+sites in the order the meteors will hit. Move next to the first one and wait for it to hit. The ring will give a 3 second debuf 
+that makes the next ring do 400% extra damage. The aim is to take the debuff and have it drop off before taking the next one, so
+after the first one, wait for the debuff to drop and then move towards the second one. Once that debuff drops you can get hit by 
+the final one. Tanks may need to take two stacks - if so, use a defensive.
+
+Cosmic Collapse is a tank buster that does large damage to players within 12 yards of the tank. Tanks need to keep still so that
+the raid can move away.
